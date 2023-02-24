@@ -53,3 +53,10 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+a {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 0);
+}
